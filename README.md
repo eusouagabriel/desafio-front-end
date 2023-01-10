@@ -1,9 +1,9 @@
 [![Gabriel](https://uploads-ssl.webflow.com/62c2f32bb1aa5ddb4a4f925a/638646f5906918709c3caf0e_2021-logotipo-prima%CC%81rio-horizontal-p-500.webp)](https://www.gabriel.com.br/)
-## Este repositório faz parte do desafio técnico para os candidatos a vaga para pessoas desenvolvedoras software.
+## Este repositório faz parte do desafio técnico para os candidatos a vaga para pessoas desenvolvedoras de software.
 
 ##### A Gabriel é uma startup focada em proteger pessoas. Com isso, buscamos talentos capazes de construir sistemas com foco em segurança e escalabilidade. 
 Para descobrir se você é o próximo talento a integrar o nosso time, queremos propor o desafio a seguir. 
-Se você se sentiu desafiado faça um fork deste projeto, desenvolva o desafio e nos envie o link de seu repositório.
+Se você se sentiu desafiado faça um fork deste projeto, desenvolva o desafio e nos envie o link de seu repositório. Teremos o imenso prazer em avaliar seu esforço.
 
 ### DESAFIO
 
