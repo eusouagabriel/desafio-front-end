@@ -17,7 +17,9 @@ Através do front end deve ser possível:
 ### Observações e requisitos não funcionais.
 - Fique livre para expressar sua criatividade, use cores e formas que julgar necessários para estilizar os componetes.
 - Será muito bem visto um app que possa rodar nas mais diversas resoluções de tela.
-- A segurança da api é muito importante para nós, por isso toda requisição aos enpoints são autenticadas com token do tipo bearer.
+- A segurança da api é muito importante para nós, por isso toda requisição aos enpoints são autenticadas. 
+- Para este desafio utilize esta api que dará todo o suporte necessário, esta api pode se encontrada neste repositório aqui: 
+https://github.com/eusouagabriel/desafio-frontend-api
 
 ### 1 - A tela abaixo mostra o mockup para a tela de gerenciamento dos clientes
 
